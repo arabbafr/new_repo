@@ -1,2 +1,0 @@
-this is my first file in branch
-this is my second line in master
