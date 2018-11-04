@@ -1,4 +1,4 @@
 new branch branch1 created
-
+second line rebase
 
 adding another line in branch1
